@@ -1,1 +1,6 @@
-# HM-TDF
+# Introduction
+This repository contains the dataset and code utilized in our research on developing **HM-TDF**, a hard sample mining-based tongue diagnosis framework for fatty liver disease severity classification. 
+# Paper Title
+Hard Sample Mining-Based Tongue Diagnosis Framework for Fatty Liver Disease Severity Classification Using Kolmogorov-Arnold Network
+# Released Dataset
+The dataset, named Tongue-FLD, includes 5,720 samples: 3,653 with non-FLD, 1,532 with mild FLD, and 535 with moderate/severe FLD, resulting in an imbalance ratio of 6.82/2.86/1.00. Each sample includes a segmented tongue image, FLD severity annotation and eight physiological indicators. The physiological indicators include Gender, Age, Height, Waist circumference, hip circumference (Hipline), Weight, body mass index (BMI), systolic blood pressure (SBP), and diastolic blood pressure (DBP). The data was obtained from a cohort study that received ethical approval. The participants were residents of Fuqing City, Fujian Province, China, aged 35 to 75 years. For each participant, a facial image with the tongue extended was captured using "TCM Diagnostic Devices," and basic physiological indicators were measured. Subsequently, participants underwent ultrasound examinations, and FLD severity was assessed according to the standard criteria established by the Fatty Liver Disease Study Group of the Chinese Liver Disease Association. 
