@@ -20,13 +20,13 @@ Python: 3.8.19
     python main.py
 
 # Cite this repository
-If you find this code or dataset useful in your research, please consider citing us:
-@inproceedings{HM-TDF,
-  title={Hard Sample Mining-Based Tongue Diagnosis Framework for Fatty Liver Disease Severity Classification Using Kolmogorov-Arnold Network},
-  link={https://github.com/AutoTongueD/HM-TDF}
-}
+If you find this code or dataset useful in your research, please consider citing us:  
+@inproceedings{HM-TDF,  
+  title={Hard Sample Mining-Based Tongue Diagnosis Framework for Fatty Liver Disease Severity Classification Using Kolmogorov-Arnold Network},  
+  link={https://github.com/AutoTongueD/HM-TDF}  
+}  
 
 # Reference
-[https://github.com/KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
-[https://github.com/Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)
-[https://github.com/AntonioTepsich/Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs)
+[https://github.com/KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)  
+[https://github.com/Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)  
+[https://github.com/AntonioTepsich/Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs)  
