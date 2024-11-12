@@ -17,6 +17,8 @@ Python: 3.8.19
     cd ./Tongue-FLD
     cat Tongue_Images.tar.gz.* > Tongue_Images.tar.gz
     tar xzf Tongue_Images.tar.gz
+    python random_rotate_images.py
+    python rotate_pre_train.py
     python main.py
 
 # Cite this repository
